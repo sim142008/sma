@@ -1,6 +1,6 @@
-pandas
-scikit-learn
-wordcloud
+pip install pandas
+pip install scikit-learn
+pip install wordcloud
 seaborn
 matplotlib
 wordcloud
